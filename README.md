@@ -4,3 +4,4 @@
 - 日高さん (https://github.com/hidaemonA)
 - 平工さん (https://github.com/kazooi)
 - 横澤さん (https://github.com/floete)
+- 河野さん (https://github.com/ennoiamayall)
