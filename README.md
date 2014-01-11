@@ -1,4 +1,4 @@
-- 金子さん (https://github.com/****)
+- 金子さん (https://github.com/kanekohehe)
 - 金古さん (https://github.com/hineko)
 - 曽我部さん (https://github.com/CMARatih)
 - 谷口さん (https://github.com/aomurasaki)
