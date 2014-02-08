@@ -17,4 +17,4 @@
 - 中野さん (https://github.com/near2828)
 - 長尾さん
 - 明智さん (https://github.com/githubop)
-- 和田さん (https://github.com/midexamu)
+- 和田さん (https://github.com/midexiamu)
