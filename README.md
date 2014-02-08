@@ -15,6 +15,6 @@
 - 竹内さん (https://github.com/chiri-takeuchi)
 - 田中さん (https://github.com/chorochoro)
 - 中野さん (https://github.com/near2828)
-- 長尾さん
+- 長尾さん (https://github.com/uhauhaak2)
 - 明智さん (https://github.com/githubop)
 - 和田さん (https://github.com/midexiamu)
