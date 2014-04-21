@@ -1,3 +1,17 @@
+#2014
+
+##AW13
+- 天野さん (https://github.com/AmanoShota)
+- 安樂さん (https://github.com/TakumaAnraku)
+- 鎌田さん (https://github.com/minami121)
+- 斉藤さん (https://github.com/seiji4600)
+- 鈴木さん (https://github.com/syurisuzuki)
+- 原田さん (https://github.com/shohei765)
+- 樋越さん (https://github.com/h33)
+- 平石さん (https://github.com/hiraishi)
+
+#2013
+
 - 金子さん (https://github.com/kanekohehe)
 - 金古さん (https://github.com/hineko)
 - 曽我部さん (https://github.com/CMARatih)
