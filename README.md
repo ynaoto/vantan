@@ -18,7 +18,7 @@
 - 岩垂さん (https://github.com/agirais)
 - 植木さん
 - 内山さん (https://github.com/alyibun)
-- 大畑さん (https://github.com/)
+- 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
 - 桑折さん (https://github.com/)
 - 小島さん
