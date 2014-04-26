@@ -33,7 +33,7 @@
 - 野村さん (https://github.com/contoracutar)
 - 早川さん (https://github.com/hayakawa0302)
 - 星合さん (https://github.com/SH570)
-- 増田さん (https://github.com/)
+- 増田さん (https://github.com/65176517yu)
 - 三浦さん (https://github.com/)
 - 矢島さん (https://github.com/)
 - 山本さん (https://github.com/)
