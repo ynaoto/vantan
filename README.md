@@ -23,7 +23,7 @@
 - 桑折さん (https://github.com/)
 - 小島さん
 - 笹川さん (https://github.com/)
-- 霜田さん
+- 霜田さん (https://github.com/)
 - 杉江さん
 - 高井さん (https://github.com/)
 - 田島さん (https://github.com/)
@@ -33,7 +33,7 @@
 - 野村さん (https://github.com/)
 - 早川さん (https://github.com/)
 - 星合さん (https://github.com/)
-- 増田さん
+- 増田さん (https://github.com/)
 - 三浦さん (https://github.com/)
 - 矢島さん (https://github.com/)
 - 山本さん (https://github.com/)
