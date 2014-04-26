@@ -15,7 +15,7 @@
 - 深井さん (https://github.com/gedou)
 
 ##GP14
-- 岩垂さん (https://github.com/)
+- 岩垂さん (https://github.com/agirais)
 - 植木さん
 - 内山さん (https://github.com/)
 - 大畑さん (https://github.com/)
