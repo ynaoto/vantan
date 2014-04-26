@@ -30,7 +30,7 @@
 - 堂屋さん (https://github.com/pierrot-8)
 - 中野さん (https://github.com/yuuya0948)
 - 根本さん (https://github.com/makegumi1514)
-- 野村さん (https://github.com/)
+- 野村さん (https://github.com/contoracutar)
 - 早川さん (https://github.com/)
 - 星合さん (https://github.com/)
 - 増田さん (https://github.com/)
