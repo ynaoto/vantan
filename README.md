@@ -31,7 +31,7 @@
 - 中野さん (https://github.com/yuuya0948)
 - 根本さん (https://github.com/makegumi1514)
 - 野村さん (https://github.com/contoracutar)
-- 早川さん (https://github.com/)
+- 早川さん (https://github.com/hayakawa0302)
 - 星合さん (https://github.com/)
 - 増田さん (https://github.com/)
 - 三浦さん (https://github.com/)
