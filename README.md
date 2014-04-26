@@ -36,7 +36,7 @@
 - 増田さん (https://github.com/65176517yu)
 - 三浦さん (https://github.com/aki123)
 - 矢島さん (https://github.com/yazima0817)
-- 山本さん (https://github.com/)
+- 山本さん (https://github.com/tentaclestar)
 - 吉田さん (https://github.com/)
 
 ##PS13
