@@ -35,7 +35,7 @@
 - 星合さん (https://github.com/SH570)
 - 増田さん (https://github.com/65176517yu)
 - 三浦さん (https://github.com/aki123)
-- 矢島さん (https://github.com/)
+- 矢島さん (https://github.com/yajima0817)
 - 山本さん (https://github.com/)
 - 吉田さん (https://github.com/)
 
