@@ -27,7 +27,7 @@
 - 杉江さん
 - 高井さん (https://github.com/ryumix)
 - 田島さん (https://github.com/tasssystyle)
-- 堂屋さん (https://github.com/)
+- 堂屋さん (https://github.com/pierrot-8)
 - 中野さん (https://github.com/)
 - 根本さん (https://github.com/)
 - 野村さん (https://github.com/)
