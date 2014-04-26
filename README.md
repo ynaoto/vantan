@@ -20,7 +20,7 @@
 - 内山さん (https://github.com/alyibun)
 - 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
-- 桑折さん (https://github.com/)
+- 桑折さん (https://github.com/GP1406)
 - 小島さん
 - 笹川さん (https://github.com/)
 - 霜田さん (https://github.com/)
