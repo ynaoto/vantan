@@ -39,6 +39,30 @@
 - 山本さん (https://github.com/tentaclestar)
 - 吉田さん (https://github.com/matuirena)
 
+##PS14B
+- 荒巻さん (https://github.com/)
+- 上田さん (https://github.com/)
+- 大野さん (https://github.com/)
+- 小川さん (https://github.com/)
+- 河津さん (https://github.com/)
+- 栗原さん (https://github.com/)
+- 桑畑さん
+- 小出さん (https://github.com/)
+- 小岩さん (https://github.com/)
+- 小坂さん (https://github.com/)
+- 小林さん
+- 佐藤さん (https://github.com/)
+- 杉山さん (https://github.com/)
+- 高良さん (https://github.com/)
+- 立原さん (https://github.com/)
+- 鴇田さん (https://github.com/)
+- 豊嶋さん (https://github.com/)
+- 永澤さん (https://github.com/)
+- 野中さん (https://github.com/)
+- 藤本さん (https://github.com/)
+- 藤原さん (https://github.com/)
+- 梁井さん (https://github.com/)
+
 ##PS13
 - 安斎さん
 - 井上さん
