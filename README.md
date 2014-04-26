@@ -22,7 +22,7 @@
 - 大山さん
 - 桑折さん (https://github.com/GP1406)
 - 小島さん
-- 笹川さん (https://github.com/)
+- 笹川さん (https://github.com/sasanon)
 - 霜田さん (https://github.com/)
 - 杉江さん
 - 高井さん (https://github.com/)
