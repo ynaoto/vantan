@@ -29,7 +29,7 @@
 - 田島さん (https://github.com/tasssystyle)
 - 堂屋さん (https://github.com/pierrot-8)
 - 中野さん (https://github.com/yuuya0948)
-- 根本さん (https://github.com/)
+- 根本さん (https://github.com/makegumi1514)
 - 野村さん (https://github.com/)
 - 早川さん (https://github.com/)
 - 星合さん (https://github.com/)
