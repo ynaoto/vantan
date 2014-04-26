@@ -14,6 +14,29 @@
 - 中村さん (https://github.com/ruka123456789)
 - 深井さん (https://github.com/gedou)
 
+##PS13
+- 安斎さん
+- 井上さん
+- 榎本さん
+- 大塚さん
+- 緒方さん (https://github.com/)
+- 桑原さん
+- 杉本さん
+- 高岡さん (https://github.com/)
+- 髙木さん (https://github.com/)
+- 高倉さん (https://github.com/)
+- 寺口さん (https://github.com/hybridsaw)
+- 戸叶さん (https://github.com/)
+- 中野さん (https://github.com/)
+- 西山さん (https://github.com/)
+- 原田さん
+- 平塚さん (https://github.com/)
+- 前田さん (https://github.com/asuto)
+- 三宅さん (https://github.com/miyakeyuji)
+- 宮本さん
+- 山田さん (https://github.com/syougun360)
+- 山本さん (https://github.com/)
+
 ##AW13
 - 天野さん (https://github.com/AmanoShota)
 - 安樂さん (https://github.com/TakumaAnraku)
