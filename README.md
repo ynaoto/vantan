@@ -50,7 +50,7 @@
 - 小野さん (https://github.com/obutakarugo)
 - 木村さん (https://github.com/kazukin134)
 - 栗須さん (https://github.com/)
-- 佐藤さん (https://github.com/)
+- 佐藤さん (https://github.com/satoaki131)
 - 西川さん (https://github.com/)
 - 西牧さん (https://github.com/)
 - 橋本さん (https://github.com/)
