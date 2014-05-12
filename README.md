@@ -40,6 +40,27 @@
 - 吉田さん (https://github.com/matuirena)
 
 ##PS14A
+- 青木さん (https://github.com/)
+- 新井さん (https://github.com/)
+- 荒川さん (https://github.com/)
+- 池内さん (https://github.com/)
+- 植野さん (https://github.com/)
+- 浦部さん (https://github.com/)
+- 岡田さん (https://github.com/)
+- 小野さん (https://github.com/)
+- 木村さん (https://github.com/)
+- 栗須さん (https://github.com/)
+- 佐藤さん (https://github.com/)
+- 西川さん (https://github.com/)
+- 西牧さん (https://github.com/)
+- 橋本さん (https://github.com/)
+- 長谷川さん (https://github.com/)
+- 藤森さん (https://github.com/)
+- 松本さん (https://github.com/)
+- 松谷さん (https://github.com/)
+- 八木さん (https://github.com/)
+- 横田さん (https://github.com/)
+- 和田さん (https://github.com/)
 
 ##PS14B
 - 荒巻さん (https://github.com/onion0217)
