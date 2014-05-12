@@ -42,7 +42,7 @@
 ##PS14A
 - 青木さん (https://github.com/)
 - 新井さん (https://github.com/ooHIROoo)
-- 荒川さん (https://github.com/)
+- 荒川さん (https://github.com/xSYUxx)
 - 池内さん (https://github.com/)
 - 植野さん (https://github.com/)
 - 浦部さん (https://github.com/)
