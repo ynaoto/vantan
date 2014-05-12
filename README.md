@@ -58,7 +58,7 @@
 - 藤盛さん (https://github.com/roah311)
 - 松本さん (https://github.com/)
 - 松谷さん (https://github.com/winter12)
-- 八木さん (https://github.com/)
+- 八木さん (https://github.com/chocomellon)
 - 横田さん (https://github.com/)
 - 和田さん (https://github.com/)
 
