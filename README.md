@@ -40,7 +40,7 @@
 - 吉田さん (https://github.com/matuirena)
 
 ##PS14A
-- 青木さん (https://github.com/)
+- 青木さん (https://github.com/RCGMy1911o)
 - 新井さん (https://github.com/ooHIROoo)
 - 荒川さん (https://github.com/xSYUxx)
 - 池内さん (https://github.com/prinnotamago)
