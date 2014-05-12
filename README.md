@@ -47,7 +47,7 @@
 - 植野さん (https://github.com/dc2flpc-ueno-913)
 - 浦部さん (https://github.com/rkyf)
 - 岡田さん (https://github.com/anko1210)
-- 小野さん (https://github.com/)
+- 小野さん (https://github.com/obutakarugo)
 - 木村さん (https://github.com/)
 - 栗須さん (https://github.com/)
 - 佐藤さん (https://github.com/)
