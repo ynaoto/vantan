@@ -54,7 +54,7 @@
 - 西川さん (https://github.com/Ya2hash1)
 - 西牧さん (https://github.com/)
 - 橋本さん (https://github.com/84110)
-- 長谷川さん (https://github.com/)
+- 長谷川さん (https://github.com/sakatuki)
 - 藤森さん (https://github.com/)
 - 松本さん (https://github.com/)
 - 松谷さん (https://github.com/)
