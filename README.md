@@ -59,7 +59,7 @@
 - 松本さん (https://github.com/)
 - 松谷さん (https://github.com/winter12)
 - 八木さん (https://github.com/chocomellon)
-- 横田さん (https://github.com/)
+- 横田さん (https://github.com/lycoris009ky)
 - 和田さん (https://github.com/)
 
 ##PS14B
