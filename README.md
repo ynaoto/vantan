@@ -55,7 +55,7 @@
 - 西牧さん (https://github.com/)
 - 橋本さん (https://github.com/84110)
 - 長谷川さん (https://github.com/sakatuki)
-- 藤森さん (https://github.com/)
+- 藤盛さん (https://github.com/roah311)
 - 松本さん (https://github.com/)
 - 松谷さん (https://github.com/)
 - 八木さん (https://github.com/)
