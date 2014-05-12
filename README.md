@@ -60,7 +60,7 @@
 - 松谷さん (https://github.com/winter12)
 - 八木さん (https://github.com/chocomellon)
 - 横田さん (https://github.com/lycoris009ky)
-- 和田さん (https://github.com/)
+- 和田さん (https://github.com/PS14)
 
 ##PS14B
 - 荒巻さん (https://github.com/onion0217)
