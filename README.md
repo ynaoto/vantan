@@ -43,7 +43,7 @@
 - 青木さん (https://github.com/)
 - 新井さん (https://github.com/ooHIROoo)
 - 荒川さん (https://github.com/xSYUxx)
-- 池内さん (https://github.com/trinnotamago)
+- 池内さん (https://github.com/prinnotamago)
 - 植野さん (https://github.com/)
 - 浦部さん (https://github.com/)
 - 岡田さん (https://github.com/)
