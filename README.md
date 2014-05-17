@@ -16,12 +16,12 @@
 
 ##GP14
 - 岩垂さん (https://github.com/agirais)
-- 植木さん
+- 植木さん (https://github.com/) ********
 - 内山さん (https://github.com/alyibun)
 - 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
 - 桑折さん (https://github.com/GP1406)
-- 小島さん
+- 小島さん (https://github.com/) ********
 - 笹川さん (https://github.com/sasanon)
 - 霜田さん (https://github.com/HirokiShimoda)
 - 杉江さん
