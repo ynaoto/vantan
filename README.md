@@ -16,12 +16,12 @@
 
 ##GP14
 - 岩垂さん (https://github.com/agirais)
-- 植木さん
+- 植木さん (https://github.com/fiorenzia)
 - 内山さん (https://github.com/alyibun)
 - 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
 - 桑折さん (https://github.com/GP1406)
-- 小島さん
+- 小島さん (https://github.com/GP1407g0i)
 - 笹川さん (https://github.com/sasanon)
 - 霜田さん (https://github.com/HirokiShimoda)
 - 杉江さん
@@ -32,7 +32,7 @@
 - 根本さん (https://github.com/makegumi1514)
 - 野村さん (https://github.com/contoracutar)
 - 早川さん (https://github.com/hayakawa0302)
-- 星合さん (https://github.com/SH570)
+- 星合さん (https://github.com/SH0756)
 - 増田さん (https://github.com/65176517yu)
 - 三浦さん (https://github.com/aki123)
 - 矢島さん (https://github.com/yazima0817)
@@ -101,11 +101,11 @@
 - 戸叶さん (https://github.com/TokanoYk)
 - 中野さん (https://github.com/kyourikey)
 - 西山さん (https://github.com/nishiyamahironori)
-- 原田さん
+- 原田さん (https://github.com/hisame)
 - 平塚さん (https://github.com/kagakububutyou)
 - 前田さん (https://github.com/asuto)
 - 三宅さん (https://github.com/miyakeyuji)
-- 宮本さん
+- 宮本さん (https://github.com/gougan)
 - 山田さん (https://github.com/syougun360)
 - 山本さん (https://github.com/gaiya)
 
