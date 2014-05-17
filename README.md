@@ -16,7 +16,7 @@
 
 ##GP14
 - 岩垂さん (https://github.com/agirais)
-- 植木さん (https://github.com/) ********
+- 植木さん (https://github.com/fiorenzia)
 - 内山さん (https://github.com/alyibun)
 - 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
