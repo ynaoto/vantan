@@ -21,7 +21,7 @@
 - 大畑さん (https://github.com/owarisoranaki)
 - 大山さん
 - 桑折さん (https://github.com/GP1406)
-- 小島さん (https://github.com/) ********
+- 小島さん (https://github.com/GP1407g0i)
 - 笹川さん (https://github.com/sasanon)
 - 霜田さん (https://github.com/HirokiShimoda)
 - 杉江さん
