@@ -73,9 +73,10 @@
 - 小出さん (https://github.com/jubirosaiko)
 - 小岩さん (https://github.com/wem-wem)
 - 小坂さん (https://github.com/masashi37)
-- 小林さん
+- 小林さん (https://github.com/kobayasi720)
 - 佐藤さん (https://github.com/duckdog)
 - 杉山さん (https://github.com/kohei1030)
+- 関さん (https://github.com/shadowjen)
 - 高良さん (https://github.com/Shi-moto)
 - 立原さん (https://github.com/tom10987)
 - 鴇田さん (https://github.com/Slumey2)
