@@ -105,7 +105,7 @@
 - 平塚さん (https://github.com/kagakububutyou)
 - 前田さん (https://github.com/asuto)
 - 三宅さん (https://github.com/miyakeyuji)
-- 宮本さん
+- 宮本さん (https://github.com/gougan)
 - 山田さん (https://github.com/syougun360)
 - 山本さん (https://github.com/gaiya)
 
