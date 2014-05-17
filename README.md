@@ -101,7 +101,7 @@
 - 戸叶さん (https://github.com/TokanoYk)
 - 中野さん (https://github.com/kyourikey)
 - 西山さん (https://github.com/nishiyamahironori)
-- 原田さん
+- 原田さん (https://github.com/hisame)
 - 平塚さん (https://github.com/kagakububutyou)
 - 前田さん (https://github.com/asuto)
 - 三宅さん (https://github.com/miyakeyuji)
