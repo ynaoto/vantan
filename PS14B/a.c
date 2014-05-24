@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("This is New!!!\n");
+    printf("This is New! NO OLD!!!\n");
     return 0;
 }
