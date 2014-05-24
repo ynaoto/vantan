@@ -37,7 +37,7 @@
 - 三浦さん (https://github.com/aki123)
 - 矢島さん (https://github.com/yazima0817)
 - 山本さん (https://github.com/tentaclestar)
-- 吉田さん (https://github.com/matuirena)
+- 吉田さん (https://github.com/matuijurina)
 
 ##PS14A
 - 青木さん (https://github.com/RCGMy1911o)
