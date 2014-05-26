@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>03C8954E-6694-4616-BFD6-A10BF07E36F2</string>
+	<string>146B6D7D-3503-436B-8BA5-3A02201CA0C5</string>
 	<key>IDESourceControlProjectName</key>
 	<string>WebApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>68A7E474-19BF-4CB4-A2E1-992705F7A97E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ArraySample</string>
+			<string>WebApp</string>
 		</dict>
 	</array>
 </dict>
