@@ -4,12 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>VantanApp 2.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
-		<key>VantanApp.xcscheme</key>
+		<key>WebApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -17,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>937F5AE61920ABF500508ACE</key>
+		<key>93295BE31933156000753015</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>937F5B071920ABF600508ACE</key>
+		<key>93295C041933156000753015</key>
 		<dict>
 			<key>primary</key>
 			<true/>

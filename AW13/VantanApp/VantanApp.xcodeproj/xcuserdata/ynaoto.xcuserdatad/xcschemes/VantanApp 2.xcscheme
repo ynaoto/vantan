@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "93295BA219330D1C00753015"
-               BuildableName = "ArraySample.app"
-               BlueprintName = "ArraySample"
-               ReferencedContainer = "container:ArraySample.xcodeproj">
+               BlueprintIdentifier = "937F5AE61920ABF500508ACE"
+               BuildableName = "VantanApp.app"
+               BlueprintName = "VantanApp"
+               ReferencedContainer = "container:VantanApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "93295BC319330D1C00753015"
-               BuildableName = "ArraySampleTests.xctest"
-               BlueprintName = "ArraySampleTests"
-               ReferencedContainer = "container:ArraySample.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93295BA219330D1C00753015"
-            BuildableName = "ArraySample.app"
-            BlueprintName = "ArraySample"
-            ReferencedContainer = "container:ArraySample.xcodeproj">
+            BlueprintIdentifier = "937F5AE61920ABF500508ACE"
+            BuildableName = "VantanApp.app"
+            BlueprintName = "VantanApp"
+            ReferencedContainer = "container:VantanApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93295BA219330D1C00753015"
-            BuildableName = "ArraySample.app"
-            BlueprintName = "ArraySample"
-            ReferencedContainer = "container:ArraySample.xcodeproj">
+            BlueprintIdentifier = "937F5AE61920ABF500508ACE"
+            BuildableName = "VantanApp.app"
+            BlueprintName = "VantanApp"
+            ReferencedContainer = "container:VantanApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93295BA219330D1C00753015"
-            BuildableName = "ArraySample.app"
-            BlueprintName = "ArraySample"
-            ReferencedContainer = "container:ArraySample.xcodeproj">
+            BlueprintIdentifier = "937F5AE61920ABF500508ACE"
+            BuildableName = "VantanApp.app"
+            BlueprintName = "VantanApp"
+            ReferencedContainer = "container:VantanApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
