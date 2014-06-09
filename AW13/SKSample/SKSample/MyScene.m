@@ -21,8 +21,9 @@
                                             size:CGSizeMake(100, 100)];
     [self addChild:_redNode];
     
-    _blueNode = [SKSpriteNode spriteNodeWithColor:[UIColor blueColor]
-                                             size:CGSizeMake(100, 100)];
+//    _blueNode = [SKSpriteNode spriteNodeWithColor:[UIColor blueColor]
+//                                             size:CGSizeMake(100, 100)];
+    _blueNode = [SKSpriteNode spriteNodeWithImageNamed:@"eye"];
     _blueNode.position = CGPointMake(100, 100);
     _blueNode.physicsBody = [SKPhysicsBody bodyWithRectangleOfSize:_blueNode.size];
     _blueNode.physicsBody.dynamic = NO;
@@ -35,7 +36,13 @@
     _greenNode.physicsBody = [SKPhysicsBody bodyWithRectangleOfSize:_greenNode.size];
 //    _greenNode.physicsBody.dynamic = NO;
     [self addChild:_greenNode];
-    
+
+    SKSpriteNode *spriteNode;
+    spriteNode = [SKSpriteNode spriteNodeWithImageNamed:@"onion"];
+    spriteNode.position = CGPointMake(100, 200);
+    spriteNode.physicsBody = [SKPhysicsBody bodyWithRectangleOfSize:spriteNode.size];
+    [self addChild:spriteNode];
+
     self.physicsBody = [SKPhysicsBody bodyWithEdgeLoopFromRect:self.frame];
     self.physicsWorld.gravity = CGVectorMake(0, -0.1);
 }
