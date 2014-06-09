@@ -28,8 +28,9 @@
     _blueNode.physicsBody.dynamic = NO;
     [self addChild:_blueNode];
     
-    _greenNode = [SKSpriteNode spriteNodeWithColor:[UIColor greenColor]
-                                              size:CGSizeMake(100, 100)];
+//    _greenNode = [SKSpriteNode spriteNodeWithColor:[UIColor greenColor]
+//                                              size:CGSizeMake(100, 100)];
+    _greenNode = [SKSpriteNode spriteNodeWithImageNamed:@"onion"];
     _greenNode.position = CGPointMake(200, 200);
     _greenNode.physicsBody = [SKPhysicsBody bodyWithRectangleOfSize:_greenNode.size];
 //    _greenNode.physicsBody.dynamic = NO;
