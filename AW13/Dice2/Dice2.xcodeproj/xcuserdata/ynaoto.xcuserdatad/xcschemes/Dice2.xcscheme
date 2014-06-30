@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "932B0F22196132AC001E7849"
-               BuildableName = "Dice1.app"
-               BlueprintName = "Dice1"
-               ReferencedContainer = "container:Dice1.xcodeproj">
+               BlueprintIdentifier = "932B0F63196138B5001E7849"
+               BuildableName = "Dice2.app"
+               BlueprintName = "Dice2"
+               ReferencedContainer = "container:Dice2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "932B0F43196132AC001E7849"
-               BuildableName = "Dice1Tests.xctest"
-               BlueprintName = "Dice1Tests"
-               ReferencedContainer = "container:Dice1.xcodeproj">
+               BlueprintIdentifier = "932B0F84196138B6001E7849"
+               BuildableName = "Dice2Tests.xctest"
+               BlueprintName = "Dice2Tests"
+               ReferencedContainer = "container:Dice2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "932B0F22196132AC001E7849"
-            BuildableName = "Dice1.app"
-            BlueprintName = "Dice1"
-            ReferencedContainer = "container:Dice1.xcodeproj">
+            BlueprintIdentifier = "932B0F63196138B5001E7849"
+            BuildableName = "Dice2.app"
+            BlueprintName = "Dice2"
+            ReferencedContainer = "container:Dice2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "932B0F22196132AC001E7849"
-            BuildableName = "Dice1.app"
-            BlueprintName = "Dice1"
-            ReferencedContainer = "container:Dice1.xcodeproj">
+            BlueprintIdentifier = "932B0F63196138B5001E7849"
+            BuildableName = "Dice2.app"
+            BlueprintName = "Dice2"
+            ReferencedContainer = "container:Dice2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "932B0F22196132AC001E7849"
-            BuildableName = "Dice1.app"
-            BlueprintName = "Dice1"
-            ReferencedContainer = "container:Dice1.xcodeproj">
+            BlueprintIdentifier = "932B0F63196138B5001E7849"
+            BuildableName = "Dice2.app"
+            BlueprintName = "Dice2"
+            ReferencedContainer = "container:Dice2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
