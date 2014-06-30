@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  Timer
+//  Dice3
 //
 //  Created by Naoto Yoshioka on 2014/06/30.
 //  Copyright (c) 2014年 Naoto Yoshioka. All rights reserved.
@@ -9,16 +9,10 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-@property (weak, nonatomic) IBOutlet UILabel *label;
 
 @end
 
 @implementation ViewController
-
-- (void)timeout
-{
-    self.label.text = @"BOMB!";
-}
 
 - (void)viewDidLoad
 {
@@ -30,14 +24,6 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
-
-- (IBAction)buttonPressed:(id)sender {
-    [NSTimer scheduledTimerWithTimeInterval:3
-                                     target:self
-                                   selector:@selector(timeout)
-                                   userInfo:nil
-                                    repeats:NO];
 }
 
 @end
