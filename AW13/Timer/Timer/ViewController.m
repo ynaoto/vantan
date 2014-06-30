@@ -33,7 +33,8 @@
 }
 
 - (IBAction)buttonPressed:(id)sender {
-    [NSTimer scheduledTimerWithTimeInterval:3
+    NSNumber *num = @3;
+    [NSTimer scheduledTimerWithTimeInterval:[num floatValue]
                                      target:self
                                    selector:@selector(timeout)
                                    userInfo:nil
