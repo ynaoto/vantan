@@ -21,6 +21,7 @@
 		93A7BA72196A6F86003A1327 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93A7BA54196A6F86003A1327 /* UIKit.framework */; };
 		93A7BA7A196A6F86003A1327 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 93A7BA78196A6F86003A1327 /* InfoPlist.strings */; };
 		93A7BA7C196A6F86003A1327 /* SampleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 93A7BA7B196A6F86003A1327 /* SampleAppTests.m */; };
+		93A7BA87196A74BD003A1327 /* ExchangeInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 93A7BA86196A74BD003A1327 /* ExchangeInfo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		93A7BA77196A6F86003A1327 /* SampleAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleAppTests-Info.plist"; sourceTree = "<group>"; };
 		93A7BA79196A6F86003A1327 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		93A7BA7B196A6F86003A1327 /* SampleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleAppTests.m; sourceTree = "<group>"; };
+		93A7BA85196A74BD003A1327 /* ExchangeInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExchangeInfo.h; sourceTree = "<group>"; };
+		93A7BA86196A74BD003A1327 /* ExchangeInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExchangeInfo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				93A7BA5F196A6F86003A1327 /* AppDelegate.h */,
 				93A7BA60196A6F86003A1327 /* AppDelegate.m */,
 				93A7BA62196A6F86003A1327 /* Main.storyboard */,
+				93A7BA85196A74BD003A1327 /* ExchangeInfo.h */,
+				93A7BA86196A74BD003A1327 /* ExchangeInfo.m */,
 				93A7BA65196A6F86003A1327 /* ViewController.h */,
 				93A7BA66196A6F86003A1327 /* ViewController.m */,
 				93A7BA68196A6F86003A1327 /* Images.xcassets */,
@@ -249,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93A7BA87196A74BD003A1327 /* ExchangeInfo.m in Sources */,
 				93A7BA67196A6F86003A1327 /* ViewController.m in Sources */,
 				93A7BA61196A6F86003A1327 /* AppDelegate.m in Sources */,
 				93A7BA5D196A6F86003A1327 /* main.m in Sources */,
