@@ -89,7 +89,7 @@
 
 ##PS13
 - 安斎さん
-- 井上さん
+- 井上さん (https://github.com/mykonos529)
 - 榎本さん
 - 大塚さん
 - 緒方さん (https://github.com/Yoruichigo)
