@@ -94,7 +94,7 @@
 - 大塚さん
 - 緒方さん (https://github.com/Yoruichigo)
 - 桑原さん
-- 杉本さん
+- 杉本さん (https://github.com/Doku0911)
 - 高岡さん (https://github.com/Vollcure)
 - 髙木さん (https://github.com/yohiro)
 - 高倉さん (https://github.com/RabitBox)
