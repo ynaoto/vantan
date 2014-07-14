@@ -21,6 +21,7 @@
 		938703791973A6E400C8E926 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9387035B1973A6E400C8E926 /* UIKit.framework */; };
 		938703811973A6E400C8E926 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9387037F1973A6E400C8E926 /* InfoPlist.strings */; };
 		938703831973A6E400C8E926 /* PickerViewSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 938703821973A6E400C8E926 /* PickerViewSampleTests.m */; };
+		9387038D1973BDAD00C8E926 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9387038C1973BDAD00C8E926 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		9387037E1973A6E400C8E926 /* PickerViewSampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PickerViewSampleTests-Info.plist"; sourceTree = "<group>"; };
 		938703801973A6E400C8E926 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		938703821973A6E400C8E926 /* PickerViewSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewSampleTests.m; sourceTree = "<group>"; };
+		9387038C1973BDAD00C8E926 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				9387036D1973A6E400C8E926 /* ViewController.m */,
 				9387036F1973A6E400C8E926 /* Images.xcassets */,
 				9387035E1973A6E400C8E926 /* Supporting Files */,
+				9387038C1973BDAD00C8E926 /* data.plist */,
 			);
 			path = PickerViewSample;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			files = (
 				938703701973A6E400C8E926 /* Images.xcassets in Resources */,
 				938703621973A6E400C8E926 /* InfoPlist.strings in Resources */,
+				9387038D1973BDAD00C8E926 /* data.plist in Resources */,
 				9387036B1973A6E400C8E926 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
