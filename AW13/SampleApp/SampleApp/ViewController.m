@@ -24,9 +24,15 @@
 
 - (void)updateOutputLabel
 {
-    float result;
-    result = 123.4;
-    self.outputLabel.text = [NSString stringWithFormat:@"%g", result];
+    NSUInteger srcIdx = [self.countryPicker selectedRowInComponent:0];
+    NSUInteger dstIdx = [self.countryPicker selectedRowInComponent:1];
+    ExchangeInfo *srcInfo = _exchageInfoArray[srcIdx];
+    ExchangeInfo *dstInfo = _exchageInfoArray[dstIdx];
+    float source = [self.inputText.text floatValue];
+    float result = source * dstInfo.rateAgainstUSD / srcInfo.rateAgainstUSD;
+    NSString *currencyMark = dstInfo.currencyMark;
+    self.outputLabel.text = [NSString stringWithFormat:@"%@%g", currencyMark, result];
+    self.currencyMarkLabel.text = srcInfo.currencyMark;
 }
 
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView
@@ -43,6 +49,11 @@
 {
     ExchangeInfo *info = _exchageInfoArray[row];
     return info.countryName;
+}
+
+- (void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
+{
+    [self updateOutputLabel];
 }
 
 - (void)viewDidLoad
@@ -70,6 +81,8 @@
     info.rateAgainstUSD = 0.74;
     info.currencyMark = @"€";
     [_exchageInfoArray addObject:info];
+    
+    [self updateOutputLabel];
 }
 
 - (void)didReceiveMemoryWarning
