@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C57B5C08-73EA-41C0-B796-9F6A73270963</string>
+	<string>0FC7DC56-A8E9-487D-A9A5-A6849D97F6C9</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SampleApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>17C25F41-59DF-4773-BAF4-7E16A89BA87D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>SampleApp</string>
+			<string>PickerViewSample</string>
 		</dict>
 	</array>
 </dict>

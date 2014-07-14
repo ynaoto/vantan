@@ -22,7 +22,7 @@
     NSMutableArray *_exchageInfoArray;
 }
 
-- (void)updateOutputLabel
+- (void)updateDisplay
 {
     NSUInteger srcIdx = [self.countryPicker selectedRowInComponent:0];
     NSUInteger dstIdx = [self.countryPicker selectedRowInComponent:1];
@@ -53,7 +53,7 @@
 
 - (void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
 {
-    [self updateOutputLabel];
+    [self updateDisplay];
 }
 
 - (void)viewDidLoad
@@ -82,7 +82,7 @@
     info.currencyMark = @"€";
     [_exchageInfoArray addObject:info];
     
-    [self updateOutputLabel];
+    [self updateDisplay];
 }
 
 - (void)didReceiveMemoryWarning
@@ -93,7 +93,7 @@
 
 - (IBAction)go:(id)sender {
     [self.inputText resignFirstResponder];
-    [self updateOutputLabel];
+    [self updateDisplay];
 }
 
 @end
