@@ -3,11 +3,19 @@
 
 int main()
 {
+  int inspace = 0;
   int c;
   while ((c = getchar()) != EOF) {
     if (isspace(c)) {
-      putchar('\n');
+      //if (!inspace) putchar('\n');
+      if (inspace) {
+        // do nothing
+      } else {
+        putchar('\n');
+      }
+      inspace = 1;
     } else {
+      inspace = 0;
       putchar(c);
     }
   }
