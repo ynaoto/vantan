@@ -52,7 +52,7 @@
 - 栗須さん (https://github.com/)
 - 佐藤さん (https://github.com/satoaki131)
 - 西川さん (https://github.com/Ya2hash1)
-- 西牧さん (https://github.com/)
+- 西牧さん (https://github.com/NishimakiKohei)
 - 橋本さん (https://github.com/84110)
 - 長谷川さん (https://github.com/sakatuki)
 - 藤盛さん (https://github.com/roah311)
