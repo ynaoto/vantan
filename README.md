@@ -1,3 +1,25 @@
+#2016
+
+##GP15
+- 芦澤さん (https://github.com/xxx) // not yet
+- 岡嵜さん (https://github.com/kazuuuuuuuuui)
+- 加藤さん (https://github.com/xxx) // not yet
+- 黒澤さん (https://github.com/xxx) // 欠席
+- 杉浦さん (https://github.com/riza4869)
+- 鈴木拓也さん (https://github.com/heatside)
+- 鈴木俊史さん (https://github.com/toshifumi1989)
+- 鈴木悠太さん (https://github.com/xxx) // 欠席
+- 武井さん (https://github.com/xxx) // not yet
+- 館山さん (https://github.com/xxx) // 欠席
+- 田中さん (https://github.com/yutatanaka)
+- 鳥居さん (https://github.com/xxx) // 欠席
+- 土肥さん (https://github.com/Akimatsu404)
+- 中島さん (https://github.com/yuduruP)
+- 増村さん (https://github.com/diskfmusik)
+- 宮原さん (https://github.com/xxx) // 欠席
+- 森ノ内さん (https://github.com/lookin4)
+- 安田さん (https://github.com/kmgico)
+
 #2014
 
 ##PH14
